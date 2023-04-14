@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Calibration_USO", "Calibration_USO\Calibration_USO.pyproj", "{22F279D2-5721-4A3D-A443-42A601C3B61D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22F279D2-5721-4A3D-A443-42A601C3B61D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22F279D2-5721-4A3D-A443-42A601C3B61D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {267FD6FA-AA63-4443-9DC5-AFE98C591425}
+	EndGlobalSection
+EndGlobal
